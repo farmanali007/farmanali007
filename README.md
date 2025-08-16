@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h1 align="center">👋 Hi, I'm Farman ALy</h1>
 <h3 align="center">Full Stack Software Engineer | LAMP Stack | 4+ Years Experience</h3>
 
 ---
