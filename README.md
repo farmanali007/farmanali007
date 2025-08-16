@@ -36,21 +36,11 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 - Proficient in **debugging, testing, and performance optimization** for backend and frontend.  
 - Collaborative **team player** with excellent problem-solving, communication, and leadership skills.  
 - Experience in deploying and maintaining applications on **Linux servers, Docker, and AWS.**
-- 
-### 🔑 Core Expertise
-
-✔ Backend development with **Laravel, Lumen, and PHP**  
-✔ RESTful APIs & **third-party integrations**  
-✔ SQL, MySQL, PL/SQL & **complex database management**  
-✔ Frontend with **JavaScript (ES6+) & React**  
-✔ ORM frameworks, migrations & data modeling  
-✔ Testing, debugging & **performance optimization**  
-✔ Agile methodology, Git & CI/CD workflows  
-✔ Scalable architectures & **secure coding practices**
+  
 
 ## 🛠️ Services I Provide  
 
-### ⚙️ Backend Expertise (Primary Focus)  
+### ⚙️ Backend Expertise  
 - **Core Technologies** – PHP, Laravel, Lumen, Node.js, Express.js  
 - **Databases** – MySQL, SQL, PL/SQL, MongoDB  
 - **ORM & Data Modeling** – Eloquent ORM, Sequelize, Mongoose  
