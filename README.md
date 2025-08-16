@@ -1,113 +1,101 @@
-<h1 align="center">👋 Hi, I'm Farman ALy</h1>
-<h3 align="center">Full Stack Software Engineer | LAMP Stack | 4+ Years Experience</h3>
+<h1 align="center">Hey, I'm Farman ALy</h1>
+<h3 align="center">🚀 Full Stack Software Engineer | LAMP Stack | Problem Solver</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Crafting+Scalable+Web+Apps;Backend+%26+Frontend+Specialist;Passionate+about+Clean+Code+%26+Performance;Always+Learning+Always+Building" alt="Typing Animation" />
+</p>
 
-### 💫 About Me
-Full Stack Software Engineer (LAMP Stack) with **4+ years of experience** in building **scalable, secure, and high-performance web applications**.  
-I specialize in **backend development with PHP (Laravel, Lumen)** and **database management with MySQL & PL/SQL**, while also delivering **dynamic frontend experiences with React & JavaScript (ES6+).**  
+### 🌟 About Me
 
-I’m passionate about **clean code, performance optimization, and scalable architectures**—creating solutions that go beyond functionality to deliver **real business impact**.
+I’m a **Full Stack Software Engineer (LAMP Stack)** with **4+ years of experience** building **scalable, secure, and future-ready applications.**  
+I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also delivering **modern frontends with React & JavaScript (ES6+).**
 
----
+💡 My philosophy: _Code should not just work, it should scale beautifully._
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-**Languages & Backend**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,js,html,css,git,github,linux,postman,vscode" />
+</p>
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,redis,tailwind,bootstrap,figma,graphql,express" />
+</p>
 
-**Tools & Workflows**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### 📌 Current Focus
 
----
+- ⚡ Scaling **User Tracking Systems** (similar to Time Doctor)
+- 🛠️ Improving **API performance** for high-concurrency apps
+- 🎨 Building **React dashboards** with smooth UX & real-time data
+- 📚 Diving deeper into **DevOps & Cloud (AWS, Docker, CI/CD)**
 
 ### 🔑 Core Expertise
 
-✔ Backend development with Laravel, Lumen, and PHP  
-✔ RESTful APIs & third-party integrations  
-✔ SQL, MySQL, PL/SQL & complex database management  
-✔ Frontend with JavaScript (ES6+) & React  
-✔ ORM frameworks, data modeling & migrations  
-✔ Testing, debugging & performance optimization  
+✔ Backend development with **Laravel, Lumen, and PHP**  
+✔ RESTful APIs & **third-party integrations**  
+✔ SQL, MySQL, PL/SQL & **complex database management**  
+✔ Frontend with **JavaScript (ES6+) & React**  
+✔ ORM frameworks, migrations & data modeling  
+✔ Testing, debugging & **performance optimization**  
 ✔ Agile methodology, Git & CI/CD workflows  
-✔ Scalable architectures & secure coding practices  
+✔ Scalable architectures & **secure coding practices**
 
----
+### 🌍 Domains & Projects
 
-### 🌍 Domains & Projects I’ve Worked On
-
-✔ **User Tracking Application (similar to Time Doctor)**  
-🔹 Designed and developed **backend architecture** with Laravel & MySQL for activity logging, reporting, and analytics  
-🔹 Built **RESTful APIs** for real-time data sync across desktop, web, and mobile clients  
-🔹 Implemented **role-based authentication and secure session management** for teams and admins  
-🔹 Created **React-based frontend dashboards** for productivity tracking & performance insights  
-🔹 Optimized system for **scalability and high concurrency**, ensuring smooth performance under heavy usage  
+✔ **User Tracking Application (like Time Doctor)**  
+🔹 Built **backend architecture** with Laravel & MySQL for logging, reporting & analytics  
+🔹 Designed **RESTful APIs** for real-time sync across clients  
+🔹 Implemented **role-based auth & secure session management**  
+🔹 Developed **React-based dashboards** for productivity insights  
+🔹 Optimized system for **scalability under high load**
 
 ✔ CRM (Customer Management Systems)  
 ✔ ERP (Enterprise Resource Planning)  
-✔ E-commerce & Payment Solutions  
 ✔ SaaS Products & Web Portals  
+✔ E-commerce & Payment Solutions  
 ✔ Education & E-Learning Platforms  
 ✔ Finance & Banking Applications  
 ✔ Healthcare & Secure Systems  
-✔ Real Estate & Property Management Apps  
+✔ Real Estate & Property Management
 
----
-
-### 🚀 What Sets Me Apart?
-
-💡 Quick Learner, Analytical Thinker & Problem Solver  
-📐 Strong grasp of Coding Standards & Best Practices  
-🛠️ Expert in API Design & Database Optimization  
-🚀 Performance Tuning & Debugging for High-Load Applications  
-📝 Clean, Well-Documented Code for Maintainability  
-✔️ Testing & Quality Assurance for Reliable Deliverables  
-📈 Scalable and Future-Ready Solutions  
-🤝 Strong Team Collaboration (Agile, Jira, GitHub)  
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farmanali007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=farmanali007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farmanali007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### ✨ Closing Note
-💡 I don’t just write code — I craft solutions that scale.  
-🌱 Always learning, always growing.  
-🚀 Building the future, one commit at a time.  
 
----
+💡 _I don’t just write code, I engineer systems that last._  
+🌱 _Every commit is a step toward growth._  
+🚀 _The future is being built — one line of code at a time._
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🔖 Tech Tags
-#FullStackDeveloper #LAMPStack #Laravel #Lumen #PHP #MySQL #PLSQL #RESTAPI  
-#React #JavaScript #FrontendDevelopment #BackendDevelopment #ORM #ScalableApps  
-#WebDevelopment #SoftwareEngineering #CleanCode #Agile #APIIntegration
+
+`#FullStackDeveloper` `#LAMPStack` `#Laravel` `#Lumen` `#PHP` `#MySQL` `#PLSQL` `#RESTAPI`  
+`#React` `#JavaScript` `#FrontendDevelopment` `#BackendDevelopment` `#ORM` `#ScalableApps`  
+`#WebDevelopment` `#SoftwareEngineering` `#CleanCode` `#Agile` `#APIIntegration`
