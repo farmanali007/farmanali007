@@ -22,6 +22,21 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,redis,tailwind,bootstrap,figma,graphql,express" />
 </p>
 
+## ⚡ Skills
+
+- Designing and developing **scalable backend systems** using PHP, Laravel, and Lumen.  
+- Building and integrating **RESTful APIs** with secure authentication and role-based access.  
+- Managing complex **databases** with MySQL, PL/SQL, stored procedures, and ORM frameworks.  
+- Crafting **dynamic and responsive frontends** using JavaScript (ES6+) and React.  
+- Translating wireframes & business requirements into **high-quality, maintainable code.**  
+- Strong grasp of **JavaScript fundamentals** — closures, promises, async/await, and event loop.  
+- Experience in **state management** with React (hooks, context API) and Redux.  
+- Optimizing applications for **high performance** and scalability across devices and browsers.  
+- Hands-on with **Agile methodology**, Git workflows, and CI/CD pipelines.  
+- Proficient in **debugging, testing, and performance optimization** for backend and frontend.  
+- Collaborative **team player** with excellent problem-solving, communication, and leadership skills.  
+- Experience in deploying and maintaining applications on **Linux servers, Docker, and AWS.**
+- 
 ### 🔑 Core Expertise
 
 ✔ Backend development with **Laravel, Lumen, and PHP**  
@@ -32,6 +47,38 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 ✔ Testing, debugging & **performance optimization**  
 ✔ Agile methodology, Git & CI/CD workflows  
 ✔ Scalable architectures & **secure coding practices**
+
+## 🛠️ Services I Provide  
+
+### ⚙️ Backend Expertise (Primary Focus)  
+- **Core Technologies** – PHP, Laravel, Lumen, Node.js, Express.js  
+- **Databases** – MySQL, SQL, PL/SQL, MongoDB  
+- **ORM & Data Modeling** – Eloquent ORM, Sequelize, Mongoose  
+- **API Development** – RESTful APIs & GraphQL (Apollo Server)  
+- **Authentication & Authorization** – JWT, OAuth2, Social Logins (Google, Facebook, etc.)  
+- **Third-Party Integrations** – Stripe, Twilio, SendGrid, Payment Gateways  
+- **System Architecture** – Scalable, secure, and high-performance backend solutions  
+- **Cloud & Deployment** – CI/CD pipelines, server deployments, and cloud integrations  
+- **Feature Enhancements** – optimizing and scaling existing applications for performance  
+
+
+### 🎨 Frontend Expertise  
+- **Frameworks** – React.js, Next.js  
+- **Languages** – JavaScript (ES6+), TypeScript  
+- **State Management** – Redux, Redux Toolkit, React Query  
+- **UI/UX Implementation** – Tailwind CSS, Material UI, Ant Design  
+- **Forms & Data Handling** – React Hook Form, Formik, Yup, React Table (filtering, pagination, sorting)  
+- **Rendering Approaches** – CSR, SSR, SSG  
+- **API Integrations** – REST APIs & GraphQL (Apollo Client)  
+- **Third-Party Tools** – Firebase, Auth providers, Payment Gateway integration  
+
+### ✅ Quality Assurance & Best Practices  
+- **Testing Frameworks** – Jest, React Testing Library, Cypress, Enzyme  
+- **Methodologies** – TDD (Test-Driven Development), BDD (Behavior-Driven Development)  
+- **Performance Tuning** – Debugging, query optimization, and load testing  
+- **Agile Workflows** – SCRUM, Jira, Git-based CI/CD collaboration  
+- **Code Quality** – Clean architecture, SOLID principles, and maintainable documentation  
+
 
 ### 🌍 Domains & Projects
 
@@ -87,8 +134,4 @@ Let's work together.
     <a href="https://www.reddit.com/user/RAzaALy"><img src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit"/></a>
    <a href="https://stackoverflow.com/users/4027349/RAzaALy"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
-### 🔖 Tech Tags
 
-`#FullStackDeveloper` `#LAMPStack` `#Laravel` `#Lumen` `#PHP` `#MySQL` `#PLSQL` `#RESTAPI`  
-`#React` `#JavaScript` `#FrontendDevelopment` `#BackendDevelopment` `#ORM` `#ScalableApps`  
-`#WebDevelopment` `#SoftwareEngineering` `#CleanCode` `#Agile` `#APIIntegration`
