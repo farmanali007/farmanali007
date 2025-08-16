@@ -22,13 +22,6 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx,redis,tailwind,bootstrap,figma,graphql,express" />
 </p>
 
-### 📌 Current Focus
-
-- ⚡ Scaling **User Tracking Systems** (similar to Time Doctor)
-- 🛠️ Improving **API performance** for high-concurrency apps
-- 🎨 Building **React dashboards** with smooth UX & real-time data
-- 📚 Diving deeper into **DevOps & Cloud (AWS, Docker, CI/CD)**
-
 ### 🔑 Core Expertise
 
 ✔ Backend development with **Laravel, Lumen, and PHP**  
@@ -78,22 +71,22 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 🌱 _Every commit is a step toward growth._  
 🚀 _The future is being built — one line of code at a time._
 
-### 🌐 Let’s Connect
-
+Let's work together.
+💬 Feel free to message me and let's make a strong business relationship.
+      
+# Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  <a href="https://raza-portfolio.vercel.app"><img src="https://img.icons8.com/fluent/64/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:farmanali1588594@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/></a>
+     <a href="https://twitter.com/@engr_farmanali"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png" alt="twitter"/></a>
+     <a href="https://linkedin.com/farmanali007"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.facebook.com/engrfarmanaly"><img src="https://img.icons8.com/color/64/000000/facebook.png" alt="facebook"/>
+  <a href="https://www.instagram.com/engr_farmanali"><img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="instagram"/>
+  <a href="https://ro.pinterest.com/007razajutt"><img src="https://img.icons8.com/color/64/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://open.spotify.com/user/8dbv9nam4rcpw7l5gmbgqktmn"><img src="https://img.icons8.com/color/64/000000/spotify--v1.png" alt="spotify"/></a>
+    <a href="https://www.reddit.com/user/RAzaALy"><img src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit"/></a>
+   <a href="https://stackoverflow.com/users/4027349/RAzaALy"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
-
----
-
 ### 🔖 Tech Tags
 
 `#FullStackDeveloper` `#LAMPStack` `#Laravel` `#Lumen` `#PHP` `#MySQL` `#PLSQL` `#RESTAPI`  
