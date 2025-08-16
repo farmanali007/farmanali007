@@ -14,12 +14,19 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 
 ### 🛠️ Tech Arsenal
 
+<!-- 🖥️ Backend & Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,js,html,css,git,github,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,graphql,mysql,postgres,mongodb,redis,dynamodb" />
 </p>
 
+<!-- ☁️ Cloud & DevOps -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,redis,tailwind,bootstrap,figma,graphql,express" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,gcp,linux,bash,terraform,ansible" />
+</p>
+
+<!-- ⚒️ Tools, IDEs & Testing -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,idea,pycharm,postman,selenium,jest" />
 </p>
 
 ## ⚡ Skills
