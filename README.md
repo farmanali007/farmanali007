@@ -5,31 +5,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Crafting+Scalable+Web+Apps;Backend+%26+Frontend+Specialist;Passionate+about+Clean+Code+%26+Performance;Always+Learning+Always+Building" alt="Typing Animation" />
 </p>
 
-### 🌟 About Me
+###  About Me
 
 I’m a **Full Stack Software Engineer (LAMP Stack)** with **4+ years of experience** building **scalable, secure, and future-ready applications.**  
 I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also delivering **modern frontends with React & JavaScript (ES6+).**
 
-💡 My philosophy: _Code should not just work, it should scale beautifully._
+ My philosophy: _Code should not just work, it should scale beautifully._
 
-### 🛠️ Tech Arsenal
+###  Tech Arsenal
 
-<!-- 🖥️ Backend & Databases -->
+<!--  Backend & Databases -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,graphql,mysql,postgres,mongodb,redis,dynamodb" />
 </p>
 
-<!-- ☁️ Cloud & DevOps -->
+<!--  Cloud & DevOps -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,gcp,linux,bash,terraform,ansible" />
 </p>
 
-<!-- ⚒️ Tools, IDEs & Testing -->
+<!--  Tools, IDEs & Testing -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,idea,pycharm,postman,selenium,jest" />
 </p>
 
-## ⚡ Skills
+##  Skills
 
 - Designing and developing **scalable backend systems** using PHP, Laravel, and Lumen.  
 - Building and integrating **RESTful APIs** with secure authentication and role-based access.  
@@ -45,9 +45,9 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 - Experience in deploying and maintaining applications on **Linux servers, Docker, and AWS.**
   
 
-## 🛠️ Services I Provide  
+## 🛠 Services I Provide  
 
-### ⚙️ Backend Expertise  
+###  Backend Expertise  
 - **Core Technologies** – PHP, Laravel, Lumen, Node.js, Express.js  
 - **Databases** – MySQL, SQL, PL/SQL, MongoDB  
 - **ORM & Data Modeling** – Eloquent ORM, Sequelize, Mongoose  
@@ -59,7 +59,7 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 - **Feature Enhancements** – optimizing and scaling existing applications for performance  
 
 
-### 🎨 Frontend Expertise  
+###  Frontend Expertise  
 - **Frameworks** – React.js, Next.js  
 - **Languages** – JavaScript (ES6+), TypeScript  
 - **State Management** – Redux, Redux Toolkit, React Query  
@@ -69,7 +69,7 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 - **API Integrations** – REST APIs & GraphQL (Apollo Client)  
 - **Third-Party Tools** – Firebase, Auth providers, Payment Gateway integration  
 
-### ✅ Quality Assurance & Best Practices  
+###  Quality Assurance & Best Practices  
 - **Testing Frameworks** – Jest, React Testing Library, Cypress, Enzyme  
 - **Methodologies** – TDD (Test-Driven Development), BDD (Behavior-Driven Development)  
 - **Performance Tuning** – Debugging, query optimization, and load testing  
@@ -77,23 +77,23 @@ I specialize in **PHP (Laravel, Lumen), MySQL, and RESTful APIs**, while also de
 - **Code Quality** – Clean architecture, SOLID principles, and maintainable documentation  
 
 
-### 🌍 Domains & Projects
+###  Domains & Projects
 
-✔ **User Tracking Application (like Time Doctor)**  
+ **User Tracking Application (like Time Doctor)**  
 🔹 Built **backend architecture** with Laravel & MySQL for logging, reporting & analytics  
 🔹 Designed **RESTful APIs** for real-time sync across clients  
 🔹 Implemented **role-based auth & secure session management**  
 🔹 Developed **React-based dashboards** for productivity insights  
 🔹 Optimized system for **scalability under high load**
 
-✔ CRM (Customer Management Systems)  
-✔ ERP (Enterprise Resource Planning)  
-✔ SaaS Products & Web Portals  
-✔ E-commerce & Payment Solutions  
-✔ Education & E-Learning Platforms  
-✔ Finance & Banking Applications  
-✔ Healthcare & Secure Systems  
-✔ Real Estate & Property Management
+🔹CRM (Customer Management Systems)  
+🔹ERP (Enterprise Resource Planning)  
+🔹SaaS Products & Web Portals  
+🔹E-commerce & Payment Solutions  
+🔹Education & E-Learning Platforms  
+🔹Finance & Banking Applications  
+🔹Healthcare & Secure Systems  
+🔹Real Estate & Property Management
 
 ### 📊 GitHub Insights
 
